@@ -890,4 +890,114 @@
     "engGroup": "AKB48",
     "jpnGroup": "AKB48"
   }
+    {
+    "jpnGroup": "AKB48",
+    "web_url": "https://www.showroom-live.com/r/48_Niina_Hasegawa",
+    "engTeam": "17ed KKS",
+    "engGroup": "AKB48",
+    "jpnTeam": "17期研究生",
+    "jpnName": "長谷川 新奈",
+    "priority": 20,
+    "engName": "Hasegawa Niina",
+    "room_id": "409795"
+  },
+  {
+    "jpnGroup": "AKB48",
+    "web_url": "https://www.showroom-live.com/r/48_Airi_Sato",
+    "engTeam": "17ed KKS",
+    "engGroup": "AKB48",
+    "jpnTeam": "17期研究生",
+    "jpnName": "佐藤 綺星",
+    "priority": 20,
+    "engName": "Sato Airi",
+    "room_id": "409793"
+  },
+  {
+    "jpnGroup": "AKB48",
+    "web_url": "https://www.showroom-live.com/r/48_Kokone_Kohama",
+    "engTeam": "17ed KKS",
+    "engGroup": "AKB48",
+    "jpnTeam": "17期研究生",
+    "jpnName": "小濱 心音",
+    "priority": 20,
+    "engName": "Kohama Kokone",
+    "room_id": "409792"
+  },
+  {
+    "jpnGroup": "AKB48",
+    "web_url": "https://www.showroom-live.com/r/48_Eriko_Hashimoto",
+    "engTeam": "17ed KKS",
+    "engGroup": "AKB48",
+    "jpnTeam": "17期研究生",
+    "jpnName": "橋本 恵理子",
+    "priority": 20,
+    "engName": "Hashimoto Eiriko",
+    "room_id": "409794"
+  },
+  {
+    "jpnGroup": "AKB48",
+    "web_url": "https://www.showroom-live.com/r/48_Sora_Yamazaki",
+    "engTeam": "17ed KKS",
+    "engGroup": "AKB48",
+    "jpnTeam": "17期研究生",
+    "jpnName": "山﨑 空",
+    "priority": 20,
+    "engName": "Yamazaki Sora",
+    "room_id": "409817"
+  },
+  {
+    "jpnGroup": "AKB48",
+    "web_url": "https://www.showroom-live.com/r/48_Miyuu_Mizushima",
+    "engTeam": "17ed KKS",
+    "engGroup": "AKB48",
+    "jpnTeam": "17期研究生",
+    "jpnName": "水島 美結",
+    "priority": 20,
+    "engName": "Mizushima Miyuu",
+    "room_id": "409813"
+  },
+  {
+    "jpnGroup": "AKB48",
+    "web_url": "https://www.showroom-live.com/r/48_Moka_Hotei",
+    "engTeam": "17ed KKS",
+    "engGroup": "AKB48",
+    "jpnTeam": "17期研究生",
+    "jpnName": "布袋 百椛",
+    "priority": 20,
+    "engName": "Hotei Moka",
+    "room_id": "409805"
+  },
+  {
+    "jpnGroup": "AKB48",
+    "web_url": "https://www.showroom-live.com/r/48_Yuki_Hirata",
+    "engTeam": "17ed KKS",
+    "engGroup": "AKB48",
+    "jpnTeam": "17期研究生",
+    "jpnName": "平田 侑希",
+    "priority": 20,
+    "engName": "Hirata Yuki",
+    "room_id": "409801"
+  },
+  {
+    "jpnGroup": "AKB48",
+    "web_url": "https://www.showroom-live.com/r/48_Yuki_Ota",
+    "engTeam": "17ed KKS",
+    "engGroup": "AKB48",
+    "jpnTeam": "17期研究生",
+    "jpnName": "太田 有紀",
+    "priority": 20,
+    "engName": "Ota Yuki",
+    "room_id": "409791"
+  },
+  {
+    "jpnGroup": "AKB48",
+    "web_url": "https://www.showroom-live.com/r/48_Nozomi_Hatakeyama",
+    "engTeam": "17ed KKS",
+    "engGroup": "AKB48",
+    "jpnTeam": "17期研究生",
+    "jpnName": "畠山 希美",
+    "priority": 20,
+    "engName": "Hatakeyama Nozomi",
+    "room_id": "409796"
+  },
 ]
